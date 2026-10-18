@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+data/
+.env
+.env.*
+!.env.example
+.aws/
+.codex/
+.agents/
